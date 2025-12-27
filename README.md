@@ -39,3 +39,14 @@ Basic data quality checks were performed to identify missing values, invalid far
 ## Portfolio Note
 This project uses public data and simulated cloud workflows for learning and portfolio demonstration purposes.
 
+## Screenshots (Conceptual)
+
+The following screenshots represent key stages of the simulated AWS data lake workflow:
+
+- **S3 Bucket:** Raw CSV data stored in an S3-based data lake structure
+- **Athena Queries:** SQL analytics executed on cataloged datasets
+- **Data Validation:** Quality checks performed on critical fields
+
+Note: Actual screenshots are conceptual placeholders to demonstrate workflow understanding.
+
+
