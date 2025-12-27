@@ -32,3 +32,10 @@ Raw CSV data is stored in Amazon S3. AWS Glue Crawlers catalog the data into tab
 
 ## Notes
 This project uses public data and is intended for academic and portfolio demonstration purposes only.
+
+## Data Validation
+Basic data quality checks were performed to identify missing values, invalid fare amounts, and incomplete timestamps to ensure analytics accuracy.
+
+## Portfolio Note
+This project uses public data and simulated cloud workflows for learning and portfolio demonstration purposes.
+
